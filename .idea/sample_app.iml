@@ -58,7 +58,7 @@
     <orderEntry type="library" scope="PROVIDED" name="rspec-rails (v2.8.1, RVM: ruby-1.9.2-p290 [rails3tutorial2ndEd]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rubyzip (v0.9.5, RVM: ruby-1.9.2-p290 [rails3tutorial2ndEd]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="sass (v3.1.12, RVM: ruby-1.9.2-p290 [rails3tutorial2ndEd]) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="sass-rails (v3.2.4, RVM: ruby-1.9.2-p290 [rails3tutorial2ndEd]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="sass-rails (v3.2.3, RVM: ruby-1.9.2-p290 [rails3tutorial2ndEd]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="selenium-webdriver (v2.18.0, RVM: ruby-1.9.2-p290 [rails3tutorial2ndEd]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="sprockets (v2.1.2, RVM: ruby-1.9.2-p290 [rails3tutorial2ndEd]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="sqlite3 (v1.3.5, RVM: ruby-1.9.2-p290 [rails3tutorial2ndEd]) [gem]" level="application" />
@@ -66,7 +66,7 @@
     <orderEntry type="library" scope="PROVIDED" name="tilt (v1.3.3, RVM: ruby-1.9.2-p290 [rails3tutorial2ndEd]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="treetop (v1.4.10, RVM: ruby-1.9.2-p290 [rails3tutorial2ndEd]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="tzinfo (v0.3.31, RVM: ruby-1.9.2-p290 [rails3tutorial2ndEd]) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="uglifier (v1.2.3, RVM: ruby-1.9.2-p290 [rails3tutorial2ndEd]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="uglifier (v1.0.3, RVM: ruby-1.9.2-p290 [rails3tutorial2ndEd]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="xpath (v0.1.4, RVM: ruby-1.9.2-p290 [rails3tutorial2ndEd]) [gem]" level="application" />
   </component>
   <component name="RModuleSettingsStorage">
